@@ -3,7 +3,7 @@
 ## Overview
 This project aims to classify breast cancer diagnoses as malignant (M) or benign (B) using the K-Nearest Neighbors (KNN) classification algorithm. It utilizes a dataset containing various features extracted from breast cancer biopsies. The project includes data preprocessing, model training and evaluation, and optional dimensionality reduction using Principal Component Analysis (PCA).
 
-##Description
+## Description
 1. Dataset Import and Exploration
 The project begins by importing the Breast Cancer Wisconsin (Diagnostic) dataset, which includes information about the diagnosis and various attributes of cell nuclei in breast cancer biopsies. Attributes include characteristics like 'radius_mean,' 'texture_mean,' 'perimeter_mean,' and more. The dataset is thoroughly explored using summary statistics, histograms, and data type checks.
 
